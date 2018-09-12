@@ -7,4 +7,5 @@ CTRL + L - nodzēst visu logā
 **uname** - command  
 **man uname** - print certain system information  
 **uname -a** - print all information, in the following order  
-**echo $0** -   
+**echo $0** - bash / shell language or a 'friendly'one
+**sh** - 'unfriendly'shell language
