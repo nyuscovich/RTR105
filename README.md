@@ -8,13 +8,13 @@ CTRL + L - nodzēst visu logā
 **man uname** - print certain system information  
 **uname -a** - print all information, in the following order  
 **echo $0** - bash / shell language or a 'friendly'one
-**sh** - 'unfriendly'shell language
-**whoami** - prints the effective user ID
-**who** - reports which users are logged in to the system
-**pwd** - prints the name of the working directory.
-**ls** - is a Linux shell command that lists directory contents of files and directories
-**ls -l** - list with long format - show permissions
-**ls -a** - list all files including hidden file starting with '.'
-**ls -ls** - list with long format with file size
-**ls -la** - list long format including hidden files
-**history** - a history command
+**sh** - 'unfriendly'shell language  
+**whoami** - prints the effective user ID  
+**who** - reports which users are logged in to the system  
+**pwd** - prints the name of the working directory  
+**ls** - is a Linux shell command that lists directory contents of files and directories  
+**ls -l** - list with long format - show permissions  
+**ls -a** - list all files including hidden file starting with '.'  
+**ls -ls** - list with long format with file size  
+**ls -la** - list long format including hidden files  
+**history** - a history command  
