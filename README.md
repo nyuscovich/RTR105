@@ -1,5 +1,5 @@
 # RTR105
-Datormācības kursa elektroniskā klāde  
+*Datormācības kursa elektroniskā klāde*  
 CTRL + ALT + T - atvēras loga "Terminal"  
 CTRL + SHIFT + T - atvēras papildloga logā "Terminal"  
 U + TAB x2 - komandu saraksts  
