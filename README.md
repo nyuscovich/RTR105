@@ -21,3 +21,7 @@ CTRL + L - nodzēst visu logā
 **ls -ls** - list with long format with file size  
 **ls -la** - list long format including hidden files  
 **history** - a history command  
+
+***
+
+**cd** - pārvietošana komanda  
