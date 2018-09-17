@@ -6,7 +6,7 @@ U + TAB x2 - komandu saraksts
 CTRL + L - nodzēst visu logā  
   
 ***
-  
+  *12.09.2018*  
 **uname** - command  
 **man uname** - print certain system information  
 **uname -a** - print all information, in the following order  
@@ -23,5 +23,11 @@ CTRL + L - nodzēst visu logā
 **history** - a history command  
 
 ***
-
-**cd** - pārvietošana komanda  
+  *17.09.2018*  
+**cd** - pārvietošanas komanda  
+*example: cd /Music*  
+LAI PĀRIETU UZ HOME:
+**home/user/:**  
+*example 1: cd /home/user/*  
+*example 2: cd + enter*  
+*example 3: cd + ~*  
