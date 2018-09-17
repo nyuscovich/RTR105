@@ -25,20 +25,20 @@ CTRL + L - nodzēst visu logā
 ***
   *17.09.2018*  
 **cd** - pārvietošanas komanda  
->*example: cd /Music*  
+>*example: cd /Music*<  
 LAI PĀRIETU UZ HOME:  
 **home/user/**  
->*example 1: cd /home/user/*  
->*example 2: cd + enter*  
->*example 3: cd +* ~  
+*example 1: cd /home/user/*  
+*example 2: cd + enter*  
+*example 3: cd +* ~  
 **~** - relatīva adrese  
 **/** - absolūta adrese  
 **mkdir** - mapes izveidošanas komanda  
 **rmdir** - mapes dzēšanas komanda  
 **rm** - remove files or directory  
 **echo** - komanda,kura attēlo tekstu  
->*example 1: echo "Teksts"*  
->*example 2: echo "Teksts + enter  
+*example 1: echo "Teksts"*  
+*example 2: echo "Teksts + enter  
 Teksts  
 Teksts  
 "  
@@ -46,7 +46,7 @@ Teksts
     Teksts  
     Teksts*    
 vai  
->*example 3: echo -e "Teksts\nTeksts\nTeksts"*  
+*example 3: echo -e "Teksts\nTeksts\nTeksts"*  
 Izmantojot >> , mēs varam papildināt jau ēsošo tekstu.  
 *example: echo "Teksts" >> fails1.txt*  
 **cat** - teksta attēlošanas komanda  
