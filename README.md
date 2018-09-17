@@ -30,4 +30,4 @@ LAI PĀRIETU UZ HOME:
 **home/user/:**  
 *example 1: cd /home/user/*  
 *example 2: cd + enter*  
-*example 3: cd + ~*  
+*example 3: cd +* ~  
