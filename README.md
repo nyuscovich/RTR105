@@ -26,8 +26,8 @@ CTRL + L - nodzēst visu logā
   *17.09.2018*  
 **cd** - pārvietošanas komanda  
 *example: cd /Music*  
-LAI PĀRIETU UZ HOME:
-**home/user/:**  
+LAI PĀRIETU UZ HOME:  
+**home/user/**  
 *example 1: cd /home/user/*  
 *example 2: cd + enter*  
 *example 3: cd +* ~  
