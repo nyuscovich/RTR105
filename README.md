@@ -39,9 +39,9 @@ LAI PĀRIETU UZ HOME:
 **echo** - komanda,kura attēlo tekstu  
 *example 1: echo "Teksts"*  
 *example 2: echo "Teksts + enter  
-> Teksts  
-> Teksts  
-> "  
+Teksts  
+Teksts  
+"  
 =>  Teksts  
     Teksts  
     Teksts*    
