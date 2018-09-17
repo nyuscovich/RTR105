@@ -31,3 +31,38 @@ LAI PĀRIETU UZ HOME:
 *example 1: cd /home/user/*  
 *example 2: cd + enter*  
 *example 3: cd +* ~  
+**~** - relatīva adrese  
+**/** - absolūta adrese  
+**mkdir** - mapes izveidošanas komanda  
+**rmdir** - mapes dzēšanas komanda  
+**rm** - remove files or directory  
+**echo** - komanda,kura attēlo tekstu  
+*example 1: echo "Teksts"*  
+*example 2: echo "Teksts + enter  
+> Teksts  
+> Teksts  
+> "  
+=>  Teksts  
+    Teksts  
+    Teksts*    
+vai  
+*example 3: echo -e "Teksts\nTeksts\nTeksts"*  
+Izmantojot >> , mēs varam papildināt jau ēsošo tekstu.  
+*example: echo "Teksts" >> fails1.txt*  
+**cat** - teksta attēlošanas komanda  
+**more** vai **less** - citas komandas, kuras uzrada tekstu dažādos veidos  
+**nano** - komanda lai modificētu tekstu  
+*example: nano fails1.txt*  
+**chmod** - lai edītu tiesības  
+*example: chmod 540 fails1.txt*  
+Un vairs mēs to nevaram modificēt.  
+**cp** - komanda, kura nokopē mapi  
+*example: cp fails1.txt fails101.txt*  
+**mv** - komanda, kura pārnes failus un mapes / var nomainīt nosaukumu  
+*example: mv *1*.txt Music/* (pārnesa)  
+*example: mv fails101.txt fails103.txt* (nomainīja nosaukumu)  
+**rm** - komanda lai nodzēstu failu  
+*example: rm Music/fails101.txt*  
+*example: rm fails**.*txt* (nodzēsa visus failus ar nosaukumu "fails")  
+
+   
