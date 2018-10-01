@@ -1,0 +1,33 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  python
+    4  ipython
+    5  idle &
+    6  ls -l
+    7  cat dgr
+    8  cat dgr_20181001.py 
+    9  git clone https://github.com/nyuscovich/RTR105
+   10  ls -l
+   11  mv dgr_20181001.py RTR105/
+   12  ls -l
+   13  cd RTR105/
+   14  ls -l
+   15  nano test_1.py
+   16  ls -l
+   17  cat test_1.py 
+   18  python test_1.py 
+   19  cat test_1.py 
+   20  idle &
+   21  idle test_1.py 
+   22  ls -l
+   23  test_1.py
+   24  /home/user/rtr105/test_1.py
+   25  /home/user/RTR105/test_1.py
+   26  chmod 764 test_1.py 
+   27  /home/user/RTR105/test_1.py
+   28  ls -l
+   29  ~ test_1.py 
+   30  ~/RTR105/test_1.py 
+   31  ./test_1.py 
+   32  history
+   33  history > history_20181001.txt
