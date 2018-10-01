@@ -73,7 +73,7 @@ Un vairs mēs to nevaram modificēt.
 **PATH=$PATH:~** - Linux determines the executable search path with the $PATH environment variable    
 
 ***  
-  *1.10.2018* 
+  *1.10.2018*   
 **python** - komanda, lai aktivizētu python  
 **vars()** - pieejamu komandu saraksts  
 **__builtins__**  
