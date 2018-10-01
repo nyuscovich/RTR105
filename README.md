@@ -68,7 +68,7 @@ Un vairs mēs to nevaram modificēt.
 ***  
  *26.09.2018*  
 **nano mans_skripts.sh** - komanda, lai izveidotu savu skriptu ar Shell valodu  
-**#!/bin/bash/** - kāds interpriators, kas nosaka mūsu darbības  
+**#!/bin/bash/** - kāds interpritators, kas nosaka mūsu darbības  
 **$PATH** - tells the shell which directories to search for executable files  
 **PATH=$PATH:~** - Linux determines the executable search path with the $PATH environment variable    
 
