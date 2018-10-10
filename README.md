@@ -78,3 +78,6 @@ Un vairs mēs to nevaram modificēt.
 **vars()** - pieejamu komandu saraksts  
 **__builtins__**  
 
+*** 
+ *10.10.2018*  
+ (japieraksta velak)  
