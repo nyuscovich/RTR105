@@ -1,33 +1,3 @@
-user@epk428-8:~$ firefox &
-[1] 2051
-user@epk428-8:~$ rm -rf RTR105
-user@epk428-8:~$ git clone https://github.com/login/RTR105
-Cloning into 'RTR105'...
-Username for 'https://github.com': NYuscovich  
-Password for 'https://NYuscovich@github.com': 
-remote: Repository not found.
-fatal: repository 'https://github.com/login/RTR105/' not found
-user@epk428-8:~$ git clone https://github.com/login/RTR105
-Cloning into 'RTR105'...
-Username for 'https://github.com': Nyuscovich
-Password for 'https://Nyuscovich@github.com': 
-remote: Repository not found.
-fatal: repository 'https://github.com/login/RTR105/' not found
-user@epk428-8:~$ git clone https://github.com/nyuscovich/RTR105
-Cloning into 'RTR105'...
-remote: Enumerating objects: 84, done.
-remote: Counting objects: 100% (84/84), done.
-remote: Compressing objects: 100% (83/83), done.
-remote: Total 84 (delta 27), reused 0 (delta 0), pack-reused 0
-Unpacking objects: 100% (84/84), done.
-Checking connectivity... done.
-user@epk428-8:~$ cd RTR105
-user@epk428-8:~/RTR105$ firefox &
-[2] 2491
-user@epk428-8:~/RTR105$ idle &
-[3] 2504
-[2]   Done                    firefox
-user@epk428-8:~/RTR105$ ipython
 Python 3.6.4 |Anaconda, Inc.| (default, Jan 16 2018, 18:10:19) 
 Type 'copyright', 'credits' or 'license' for more information
 IPython 6.2.1 -- An enhanced Interactive Python. Type '?' for help.
