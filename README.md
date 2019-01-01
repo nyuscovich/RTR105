@@ -76,8 +76,10 @@ Un vairs mēs to nevaram modificēt.
   *1.10.2018*   
 **python** - komanda, lai aktivizētu python  
 **vars()** - pieejamu komandu saraksts  
-**__builtins__**  
+**type()** - parāda kas par datu tipu ir mainīgais  
+**__builtins__**  - galvena mape  
 
 *** 
- *10.10.2018*  
- (japieraksta velak)  
+**git clone htps://github.com/login/RTR105 /** - piesaistīt GitHub  
+**cd /RTR105/** - ieiet GitHub'ā  
+**nano README.md** - README editor  
